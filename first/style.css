@@ -1,0 +1,35 @@
+html,body {
+	height: 100%;
+}
+
+
+.top{
+	background-color: #444444;
+	height: 20%;
+	width: 100%;
+}
+
+.sides {
+	background-color: #cccccc;
+	margin-top: 0px;
+	height: 100%;
+	width: 100%;
+}
+.center {
+	background-color: white;
+	height :70%;
+	width :60%;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 0%;
+	margin-bottom: 0%;
+}
+.bottom {
+	background-color: black;
+	height: 30%;
+	width: 60%;
+	margin-right: 20%;
+	margin-left:20%;
+}
+
+	
