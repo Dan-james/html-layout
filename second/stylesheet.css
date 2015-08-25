@@ -1,0 +1,29 @@
+html,body {
+	height: 100%;
+}
+
+.blue{
+	background-color: blue;
+	height: 100%;
+	width:100%;
+}
+
+.teal{
+	background-color: cyan;
+	height:100%;
+	width: 60%;
+	margin-left: 34%
+}
+.yellow{
+	background-color: yellow;
+	height:100%;
+	width: 50%;
+	margin-left: 60%;
+	position: relative;
+}
+img{
+	height: 30%;
+	width: 100%;
+	position: absolute;
+	bottom: 0;
+}
